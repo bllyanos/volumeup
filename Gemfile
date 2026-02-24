@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'thor', '~> 1.2'
+gem 'thor', '~> 1.5'
 gem 'docker-api', '~> 2.0'
 gem 'colorize', '~> 0.8'
 gem 'tty-progressbar', '~> 0.18'
